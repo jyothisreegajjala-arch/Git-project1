@@ -1,1 +1,1 @@
-day1: Intoduction to git and github
+day1: Intoduction to git and github"Successfully completed" 
